@@ -13,7 +13,7 @@ int main()
     for (int i = 0; i < tam; i++)
     {
         cout << "entrou no primeiro for, posição " << i << endl;
-        for (int j = 0; j < tam; j++,)
+        for (int j = 0; j < tam; j++)
         {
             cout << "entrou no segundo for, posição " << j << endl;
             if (vetor[j] < menor)
