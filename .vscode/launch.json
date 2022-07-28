@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/vini/Algoritimo_II/livro/ordenação",
-      "program": "/home/vini/Algoritimo_II/livro/ordenação/build/Debug/outDebug",
+      "cwd": "/home/vini/Algoritimo_II",
+      "program": "/home/vini/Algoritimo_II/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
